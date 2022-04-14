@@ -24,8 +24,6 @@ public class InsertionSort {
                 produtos[analise - 1] = prodAnalise;
                 analise--;
             }
-        }
-        
+        }        
     }
-
 }
