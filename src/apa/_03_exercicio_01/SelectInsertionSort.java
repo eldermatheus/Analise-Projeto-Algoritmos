@@ -65,8 +65,7 @@ public class SelectInsertionSort {
 		}
 		return menor;
 	}
-
-	//
+	
 	// Busca por seleção
 	private static void MaiorNotaSelecao(Aluno[] alunos) {
 		ordenaPorSelecao(alunos);
